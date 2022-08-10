@@ -24,23 +24,25 @@
   <img align="center" alt="Lueber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lueber-Redux" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/b24ca4afa7072e737b69e2fe4decaa8d/raw/f3b4b1c54c6f3818f84ece39339aee5eb0895216/ReduxIcon.svg">  
   <img align="center" alt="Lueber-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/41533099b700122455f629a0429c34b0/raw/8f3b1dc15c38e01c167bc61c263e14869fc7d21d/nextJsIcon.svg">
-   <img align="center" alt="Lueber-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/6342367e2d1498089990352c24eca6d7/raw/0bf26f86a72ad5d29d0623fe95206a5c1f679b92/nodeJsIcon.svg">
-   
-   
-   
+   <img align="center" alt="Lueber-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/6342367e2d1498089990352c24eca6d7/raw/0bf26f86a72ad5d29d0623fe95206a5c1f679b92/nodeJsIcon.svg">   
    <img align="center" alt="Lueber-Nest" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/bc8f85eb76b190038406fff5fdd8a678/raw/dd0f9a8284cb079866d0fedc66fd90863639fe84/nestIcon.svg">
   
-          
+        
   </div>
 <br><br>
 
+
+ 
 ## Contact
 
-<p align="left" style="background:yellow">
+<div>
 <a href="https://linkedin.com/in/lueber-gandra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lueberGandra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+</div>
+<br><br>
 
-</p>
+
+ ![snake gif](https://github.com/lueberGandra/lueberGandra/blob/output/github-contribution-grid-snake.svg)  
 
 <!--
