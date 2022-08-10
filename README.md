@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, my name is Lueber Gandra</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lueber Gandra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lueberGandra&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Full Stack Developer
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, SASS, ReactJs,Next**
 
-
+### Languages & Tools
 <div align="center">
   <a href="https://github.com/lueberGandra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lueberGandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@
 
 
  
-## Contact
+### Contact
 
 <div>
 <a href="https://linkedin.com/in/lueber-gandra" target="_blank">
