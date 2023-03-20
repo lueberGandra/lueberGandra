@@ -4,7 +4,7 @@
 
 - 🔥 Full Stack Developer
 
-- 🔭 I’m currently working at [RadarFit](https://www.linkedin.com/company/radarfit)
+- 🔭 I’m currently working at [SYDLE](https://br.linkedin.com/company/sydle)
 
 - 💬 Ask me about **JavaScript, HTML, SASS, ReactJs,Next**
 
