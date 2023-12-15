@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Radarfit](https://br.linkedin.com/company/radarfit)
 
-- 💬 Ask me about **JavaScript, HTML, SASS, ReactJs,Next**
+- 💬 Ask me about **JavaScript, Typescript, SASS, ReactJs,Next,NestJs**
 
 ### Languages & Tools
 <div align="center">
