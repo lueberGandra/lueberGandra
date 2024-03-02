@@ -36,7 +36,4 @@
 </div>
 <br><br>
 
-
- ![snake gif](https://github.com/lueberGandra/lueberGandra/blob/output/github-contribution-grid-snake.svg)  
-
 <!--
