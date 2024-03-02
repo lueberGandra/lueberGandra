@@ -1,39 +1,33 @@
+<h1 align="center">Bem vindo! Meu nome é Lueber Gandra</h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lueber Gandra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lueberGandra&color=yellow" alt="Profile views" /> </p>
+<h3 align="center">Graduado em Jogos Digitais</h3>
+<h3 align="center">Pós-graduando em Arquitetura de Software e Soluções</h3>
 
-- 🔥 Full Stack Developer
 
-- 🔭 I’m currently working at [Radarfit](https://br.linkedin.com/company/radarfit)
-
-- 💬 Ask me about **JavaScript, Typescript,ReactJs,Next,NestJs**
-
-### Languages & Tools
 <div align="center">
- <a href="https://github.com/lueberGandra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lueberGandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lueberGandra&layout=compact&langs_count=7&theme=dracula"/>
+  
+ <b>Linguagens</b> 
+  
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<b>Frameworks & Bibliotecas</b>
+
+![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Nextjs&color=000&logoColor=FFFFFF&label=) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+<b>Banco de dados & ORMs</b>
+
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) ![Typeorm](https://img.shields.io/static/v1?style=for-the-badge&message=Typeorm&color=E0234E&label=) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
+
+<b>Testes</b>
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  
+<b>Versionamento & Deploy</b>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+  
+<b>Cloud</b>
+  
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+
 </div>
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Lueber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lueber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lueber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lueber-Redux" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/b24ca4afa7072e737b69e2fe4decaa8d/raw/f3b4b1c54c6f3818f84ece39339aee5eb0895216/ReduxIcon.svg">  
-  <img align="center" alt="Lueber-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/41533099b700122455f629a0429c34b0/raw/8f3b1dc15c38e01c167bc61c263e14869fc7d21d/nextJsIcon.svg">
-   <img align="center" alt="Lueber-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/6342367e2d1498089990352c24eca6d7/raw/0bf26f86a72ad5d29d0623fe95206a5c1f679b92/nodeJsIcon.svg">   
-   <img align="center" alt="Lueber-Nest" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/bc8f85eb76b190038406fff5fdd8a678/raw/dd0f9a8284cb079866d0fedc66fd90863639fe84/nestIcon.svg">        
-  </div>
-<br><br>
-
-
- 
-### Contact
-
-<div>
-<a href="https://linkedin.com/in/lueber-gandra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lueberGandra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</div>
-<br><br>
-
-<!--
