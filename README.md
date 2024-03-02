@@ -14,11 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lueberGandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lueberGandra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lueber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lueber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Lueber-SASS" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/0e21d123210e42ffdccde77b700a4a6c/raw/c29be277d11ba648a360eebc7cb374cf91ef003c/sassIcon.svg">
-  <img align="center" alt="Lueber-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/gist/lueberGandra/2d44a5d1c1128cab437898a3f01d9970/raw/59c12cd871cf50ca92d0f644a5242fd0d1121067/tailwindIcon.svg">  
+<div style="display: inline_block"><br> 
   <img align="center" alt="Lueber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lueber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lueber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
