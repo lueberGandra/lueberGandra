@@ -1,5 +1,3 @@
----
-
 ## 🚀 About Me
 
 * 💻 Software Engineer with **5 years of experience**
@@ -113,6 +111,4 @@ Feel free to explore my repositories or reach out if you want to talk about:
 
 * SaaS architecture
 * Backend engineering
-* Cloud solutions
-
----
+* Cloud so
